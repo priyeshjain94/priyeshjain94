@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Priyesh
 - 👀 I’m interested in collaborating towards optimization problems
 - 🌱 I’m currently working in Industrial Automation and Digital transformation domain
-- 💞️ I’m looking to collaborate on demand forecasting and business process improvement problems
+- 💞️ I’v experience in solving demand forecasting, predictive analytics and business process improvement problems
 - 📫 How to reach me: priyeshj@buffalo.edu
 
 <!--- 
